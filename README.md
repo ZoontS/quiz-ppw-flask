@@ -1,6 +1,8 @@
 # PPW Quiz Flask
 ## Members and registration number
 
-Rasyaad Maulana Khandiyas - 131321020
-Muhammad Hadiid Faathir - 13136210
-Narendra Arkan Putra Darmawan - 13136210
+<ul>
+<li>Rasyaad Maulana Khandiyas - 131321020 - rasyaadmk</li>
+<li>Muhammad Hadiid Faathir - 1313621035 - Bedyyy</li>
+<li>Narendra Arkan Putra Darmawan - 1313621043 - ZoontS</li>
+</ul>
